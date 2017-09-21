@@ -77,7 +77,7 @@ public class MyInteger {
 	}
 	public boolean isEquals(MyInteger myInt)
 	{
-		return isEquals(myInt);
+		return isEquals(myInt.getiValue());
 	}
 	
 }
